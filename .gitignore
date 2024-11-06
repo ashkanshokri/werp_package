@@ -48,4 +48,4 @@ coverage.xml
 *.cover
 .hypothesis/ 
 
-sample_data.nc
+sample_data.py
